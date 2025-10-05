@@ -1,4 +1,4 @@
 # learning
 Learning github 
 <br>
-Author: Amriti Sinha
+Author: Amriti Sinha(uiet chandigarh)
